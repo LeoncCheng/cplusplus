@@ -1,2 +1,2 @@
-# Cplusplus
+# cplusplus
 c++ practice
